@@ -1,13 +1,14 @@
-# CISC275-Project-Team-11-1-Lepscape
+#Lepscape
 
 # Authors
-- Ishika Govil
-- Dea Harjianto 
-- Arunima Dey 
-- Jinay Jain 
-- Kimmy Huynh
+Ishika Govil, Dea Harjianto, Arunima Dey, Jinay Jain, and Kimmy Huynh
 
-# Features
+# About
+This garden design application was designed as part of the curriculum for CISC275: Intro to Software Engineering for a Mt. Cuba Center client. The program's main focus is to prioritize native Delaware plants in gardening and support lepidoptera and other insects.
+
+This project is run via Gradle build system in Eclipse.
+
+# Main Features
 - Draw plot boundaries freehand and with polygon
 - Set dimensions & scale plot accordingly
 - Add condition boundaries & select conditions
@@ -16,7 +17,7 @@
 - Delete plants & ability to retrieve them
 - Imported plant information with cropped images; 100 plants total
 - Tooltips implemented to hover over plant images
-- Imported lepidoptera information with 
+- Imported lepidoptera information with images
 - Saving and loading gardens with serialization
 - Gallery view of all saved gardens
 - View most numerated/attracted leps in 'Lepedia'
